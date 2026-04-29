@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class Main {
  public static void main(String[] args) {
  Scanner sc = new Scanner(System.in);
- int a, b, c;
+double a, b, c;
  double discriminante, x1, x2;
  System.out.print("Ingrese a: ");
  a = sc.nextInt();
